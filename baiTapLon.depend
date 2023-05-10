@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1678868586 source:d:\coding\bai_tap_lon\baitaplon\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/SDL_utils.h"
+	"include/baseObject.h"
+	"include/game.h"
+
+1678868457 source:d:\coding\bai_tap_lon\baitaplon\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/SDL_utils.h"
+	"include/baseObject.h"
+	"include/game.h"
+
+1678868485 d:\coding\bai_tap_lon\baitaplon\include\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"baseObject.h"
+	"map.h"
+
+1678725612 d:\coding\bai_tap_lon\baitaplon\include\maincharacter.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1678725612 source:d:\coding\bai_tap_lon\baitaplon\maincharacter.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/SDL_utils.h"
+	"include/mainCharacter.h"
+
+1678860271 source:d:\coding\bai_tap_lon\baitaplon\game.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/SDL_utils.h"
+	"include/baseObject.h"
+
+1678867882 d:\coding\bai_tap_lon\baitaplon\include\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+	"baseObject.h"
+
+1678806717 d:\coding\bai_tap_lon\baitaplon\include\character.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1678806782 source:d:\coding\bai_tap_lon\baitaplon\character.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/SDL_utils.h"
+	"include/Character.h"
+
+1678860271 d:\coding\bai_tap_lon\baitaplon\include\map.h
+	"SDL_utils.h"
+
+1678860271 source:d:\coding\bai_tap_lon\baitaplon\map.cpp
+
+1678864086 d:\coding\bai_tap_lon\baitaplon\include\baseobject.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1678860271 source:d:\coding\bai_tap_lon\baitaplon\baseobject.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/SDL_utils.h"
+	"include/baseObject.h"
+	"include/game.h"
+
+1682868398 source:d:\coding\bai_tap_lon\bai_tap_lon\baseobject.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+	"include/baseObject.h"
+
+1683707793 d:\coding\bai_tap_lon\bai_tap_lon\include\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1682868350 d:\coding\bai_tap_lon\bai_tap_lon\include\baseobject.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1683704470 d:\coding\bai_tap_lon\bai_tap_lon\include\map.h
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+	"base.h"
+
+1683707551 d:\coding\bai_tap_lon\bai_tap_lon\include\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+
+1683704599 source:d:\coding\bai_tap_lon\bai_tap_lon\game.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"include/game.h"
+
+1683706688 source:d:\coding\bai_tap_lon\bai_tap_lon\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+	"include/player.h"
+	"include/base.h"
+	"include/map.h"
+
+1683704472 source:d:\coding\bai_tap_lon\bai_tap_lon\map.cpp
+	<iostream>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"include/map.h"
+	"include/game.h"
+	"include/SDL_utils.h"
+
+1683563322 source:d:\coding\bai_tap_lon\bai_tap_lon\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+
+1682868460 source:d:\coding\bai_tap_lon\bai_tap_lon\maincharacter.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+	"include/mainCharacter.h"
+
+1682782298 d:\coding\bai_tap_lon\bai_tap_lon\include\maincharacter.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"game.h"
+	"SDL_utils.h"
+	"baseObject.h"
+	"map.h"
+
+1682002403 source:d:\coding\bai_tap_lon\bai_tap_lon\pinkythread.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+
+1683704472 source:d:\coding\bai_tap_lon\bai_tap_lon\base.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+	"include/base.h"
+
+1683704470 d:\coding\bai_tap_lon\bai_tap_lon\include\base.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1683705765 source:d:\coding\bai_tap_lon\bai_tap_lon\player.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"include/game.h"
+	"include/SDL_utils.h"
+	"include/player.h"
+	"include/map.h"
+
+1683704470 d:\coding\bai_tap_lon\bai_tap_lon\include\player.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+	"SDL_utils.h"
+	"base.h"
+	"map.h"
+
+1683704470 source:d:\coding\bai_tap_lon\bai_tap_lon\pinky.cpp
+
